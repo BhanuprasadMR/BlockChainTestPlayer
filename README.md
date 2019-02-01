@@ -1,4 +1,4 @@
-# BlockChainTestPlayer
-Test player for implementing block chain technology
+# BlockChainTestPlayer -Block chain implemented Test player.
 
-This testplayer is being designed to implement block chain technology, in which we store each user responses in blocks, in turn helps admin/organizations to keep track of every activity of the test taker or to avoid changes done to responses even after submitting the test. Hence this ensures two way security of the screeing process of an candidate.
+This testplayer is being designed to implement block chain, in which we store each user responses in blocks, in turn which helps admin/organizations to keep track of every activity of the test taker and avoid changes done for the responses through out the process. Hence this ensures two way security of the screening process of an candidate.
+
